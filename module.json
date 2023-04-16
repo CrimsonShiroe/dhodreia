@@ -1,0 +1,34 @@
+{
+    "id": "dhodreia",
+    "title": "Deserts of Dho'Dreia",
+    "description": "A module containing aspects of the Deserts of Dho'Dreia setting.",
+    "authors": [
+        {
+            "name": "Crimson"
+        }
+    ],
+    "version": "1.0.0",
+    "compatability": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "name": "dhodreia-races",
+            "label": "Dho'Dreia Races",
+            "system": "dnd5e",
+            "path": "./packs/dhodreia-races.db",
+            "type": "Item"
+        },
+        {
+            "name": "dhodreia-racial-features",
+            "label": "Dho'Dreia Racial Features",
+            "system": "dnd5e",
+            "path": "./packs/dhodreia-racial-features.db",
+            "type": "Item"
+        }
+    ],
+    "url": "https://github.com/CrimsonShiroe/dhodreia",
+    "manifest": "",
+    "download": ""
+}
