@@ -29,6 +29,6 @@
         }
     ],
     "url": "https://github.com/CrimsonShiroe/dhodreia",
-    "manifest": "",
-    "download": ""
+    "manifest": "https://github.com/CrimsonShiroe/dhodreia/releases/latest/download/module.json",
+    "download": "https://github.com/CrimsonShiroe/dhodreia/releases/latest/download/dhodreia.zip"
 }
